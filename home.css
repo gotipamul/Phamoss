@@ -1,0 +1,38 @@
+        .nav
+		{
+			text-align: right;
+			padding: 10px;
+			font-size: 20px;
+			background-color: #20141A;
+			
+		}
+
+		.nav a{
+			color: white;
+			text-decoration: none;
+			margin-right: 10px;
+
+		}
+
+		
+
+
+		.for
+	    {
+		
+        padding:50px;
+        border: 1px solid black;
+        color:white;
+        /*background-color: black;*/
+        margin-top: 100px;
+        margin-bottom: 100px;
+        margin-right: 350px;
+        margin-left:  450px;
+       }
+       
+
+
+
+
+
+
